@@ -1,6 +1,7 @@
 # Document Analyzer
 
-Document Analyzer is a tool that analyzes a document and generates questions based on its content. Users can interact with the chat bot to receive responses relevant to the document.
+Document Analyzer is an application designed to analyze PDF documents and generate answers based on their content. The application utilizes  natural language processing models, such as DeBERTa from Hugging Face, to extract key information from the documents. Users can interact with the chat bot interface to ask questions about the document's content, and the bot will provide responses based on the analysis.
+
 
 ## Technologies Used
 
